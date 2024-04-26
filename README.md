@@ -1,6 +1,10 @@
-<span style="font-size:50.0em;">Hello 👋, I am Jesse</span>
+# Hello 👋, I am Jesse
 
-jesse-rr@github:~$ echo "Currently only a student in search of knownledge for several programming branchs"
+
+🎓 About me:
+
+jesse-rr@github:~$ echo "Currently only a student in search of knownledge for several programming branchs
+
 
 💻 Technologies & Tools
 
