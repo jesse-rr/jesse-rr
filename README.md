@@ -1,5 +1,5 @@
 # Hello 👋, I am Jesse
-
+<!-- This is commented out. -->
 # 🎓 About me:
 
 jesse-rr@github:~$ echo "Currently only a student in search of knownledge for several programming branchs
