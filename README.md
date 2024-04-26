@@ -4,7 +4,6 @@ jesse-rr@github:~$ echo "Currently only a student in search of knownledge for se
 
 💻 Technologies & Tools
 
-![Java](https://github.com/jesse-rr/jesse-rr/assets/162192002/1a28e96d-9d24-4d0c-a2e4-3d6fa097e4fe)  ![git](https://github.com/jesse-rr/jesse-rr/assets/162192002/0ae8f8b2-4eb3-4e71-9ecd-ae7986f473b3)  ![github](https://github.com/jesse-rr/jesse-rr/assets/162192002/b0837371-45da-4a73-9d04-4aff8775ce78)
+Java  Spring  Git  GitHub  Intellij
 
-
-
+![Java](https://github.com/jesse-rr/jesse-rr/assets/162192002/cda97f5e-856d-4d43-89cc-17db1f226af6 =250x250)
