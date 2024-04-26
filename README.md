@@ -1,4 +1,4 @@
-Hello 👋, I am Jesse
+<span style="font-size:0.5em;">Hello 👋, I am Jessee</span>
 
 jesse-rr@github:~$ echo "Currently only a student in search of knownledge for several programming branchs"
 
