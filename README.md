@@ -1,6 +1,5 @@
-# Hello 👋, I am Jesse
-jesse-rr@github:~$ touch "README.md"
-️
+# Hello 👋, I am Jesse️
+<br>
 # 🎓 About me:
 <br>
 jesse-rr@github:~$ echo "Currently only a student in search of knownledge for several programming branchs" <br>
