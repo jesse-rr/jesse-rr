@@ -10,7 +10,7 @@ jesse-rr@github:~$ echo "Has fluency in the english language :D"
 
 ️️
 # 💻 Technologies & Tools
-<div padding-right="10" padding-left="10">
+<div padding-right="20" padding-left="20">
 ️<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
