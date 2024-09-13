@@ -10,6 +10,7 @@ jesse-rr@github:~$ echo "Has fluency in the english language :D"
 
 ️️
 # 💻 Technologies & Tools
+<div padding-right="10" padding-left="10">
 ️<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
@@ -26,3 +27,4 @@ jesse-rr@github:~$ echo "Has fluency in the english language :D"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30"/> 
 -->
+</div>
