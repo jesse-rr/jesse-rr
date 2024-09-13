@@ -10,5 +10,19 @@ jesse-rr@github:~$ echo "Has fluency in the english language :D"
 
 ️️
 # 💻 Technologies & Tools
-️
-<img src="https://github.com/jesse-rr/jesse-rr/assets/162192002/cda97f5e-856d-4d43-89cc-17db1f226af6" width="50" height="50" />        <img src="https://github.com/jesse-rr/jesse-rr/assets/162192002/58914d32-43ea-44af-9206-85be034712bd" width="70" height="50" />        <img src="https://github.com/jesse-rr/jesse-rr/assets/162192002/7015648b-8af8-4309-bb0f-d078cfe10081" width="50" height="50" />        <img src="https://github.com/jesse-rr/jesse-rr/assets/162192002/9e15492f-b6c0-46c8-8064-a59e57622476" width="50" height="50" />        
+️<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="30" height="30"/>
+<!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30"/> 
+-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30"/>
