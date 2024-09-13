@@ -1,6 +1,4 @@
 <h1 align="center"> Hello 👋, I am Jesse️ </h1>
-<br>
-
 <h2 align="center"> 🎓 About me </h2>
 *jesse-rr@github:~$* echo "Currently only a student in search of knownledge for several programming branchs" <br>
 *jesse-rr@github:~$* echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually" <br>
