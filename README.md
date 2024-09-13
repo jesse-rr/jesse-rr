@@ -2,13 +2,10 @@
 <br>
 
 ## 🎓 About me:
-<br>
-jesse-rr@github:~$ echo "Currently only a student in search of knownledge for several programming branchs" <br>
-jesse-rr@github:~$ echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually" <br>  
-jesse-rr@github:~$ echo "Has fluency in the english language :D"
+*jesse-rr@github:~$* echo "Currently only a student in search of knownledge for several programming branchs" <br>
+*jesse-rr@github:~$* echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually" <br>  
+*jesse-rr@github:~$* echo "Has fluency in the english language :D"
 
-
-️️
 ## 💻 Technologies & Tools
 <div>
   ️<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>&nbsp;
