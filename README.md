@@ -1,11 +1,10 @@
-<div text-align="center">
-# Hello 👋, I am Jesse️
-</div> <br>
+<h1 align="center"> Hello 👋, I am Jesse️ </h1>
+<br>
 
 ## 🎓 About me:
-*jesse-rr@github:~$* echo "Currently only a student in search of knownledge for several programming branchs"
-*jesse-rr@github:~$* echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually"
-*jesse-rr@github:~$* echo "Has fluency in the english language :D"
+*jesse-rr@github:~$* echo "Currently only a student in search of knownledge for several programming branchs" <br>
+*jesse-rr@github:~$* echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually" <br>
+*jesse-rr@github:~$* echo "Has fluency in the english language :D" <br>
 
 ## 💻 Technologies & Tools
 <div>
