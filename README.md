@@ -2,9 +2,9 @@
 
 ### 🎓 About me
 
-jesse-rr@github:~$ <p style="color:orange">echo</p> "Currently only a student in search of knowledge for several programming branches"
-jesse-rr@github:~$ echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually"
-jesse-rr@github:~$ echo "Has fluency in the English language :D"
+<p style="color:orange;">jesse-rr@github:~$ echo "Currently only a student in search of knowledge for several programming branches"</p>
+<p style="color:orange;">jesse-rr@github:~$ echo "Doesn't know much about the deep knowledge in programming right now but will get the hang of it eventually"</p>
+<p style="color:orange;">jesse-rr@github:~$ echo "Has fluency in the English language :D"</p>
 
 ### 💻 Technologies & Tools
 
