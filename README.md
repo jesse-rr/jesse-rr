@@ -1,1 +1,1 @@
-<img src="https://media.tenor.com/sbfBfp3FeY8AAAAi/oia-uia.gif" alt="gif" width="800"/>
+<img src="https://media1.tenor.com/m/boEdeIotYHUAAAAC/cat-meme.gif" alt="gif" width="800"/>
