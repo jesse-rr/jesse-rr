@@ -1,1 +1,1 @@
-<div class="tenor-gif-embed" data-postid="4508364476527350133" data-share-method="host" data-aspect-ratio="1.43931" data-width="100%"><a href="https://tenor.com/view/maxwell-cat-cat-meme-silly-cat-silly-gif-4508364476527350133">Maxwell Cat GIF</a>from <a href="https://tenor.com/search/maxwell-gifs">Maxwell GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/pt-BR/view/maxwell-cat-cat-meme-silly-cat-silly-gif-4508364476527350133" width:300px>
