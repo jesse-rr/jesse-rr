@@ -1,1 +1,1 @@
-![gif](https://tenor.com/pt-BR/view/maxwell-cat-cat-meme-silly-cat-silly-gif-4508364476527350133)
+<img src="https://github.com/user-attachments/assets/0751d91d-a82a-4dea-9e01-7289ab18b123" width:400px>
