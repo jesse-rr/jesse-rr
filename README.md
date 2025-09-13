@@ -8,15 +8,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jesse-rr">
-    <img src="https://img.shields.io/badge/LinkedIn-FF8C42?style=for-the-badge" alt="LinkedIn" width="120"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF8C42?style=for-the-badge" alt="LinkedIn" width="120" height="28"/>
   </a>
   <a href="mailto:jessericardorogerio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge" alt="Gmail" width="120"/>
+    <img src="https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge" alt="Gmail" width="120" height="28"/>
   </a>
   <a href="./">
-    <img src="https://img.shields.io/badge/Portifolio-FF8C42?style=for-the-badge" alt="Portifolio" width="120"/>
+    <img src="https://img.shields.io/badge/Portifolio-FF8C42?style=for-the-badge" alt="Portifolio" width="120" height="28"/>
   </a>
 </div>
+
 
 
 
