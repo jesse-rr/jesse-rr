@@ -1,4 +1,4 @@
-<p align="center" height="300px">
+<p align="center" height="200px">
   <img src="astronaut-1757802428660-4845.jpg" alt="Astronaut"/>
 </p>
 
