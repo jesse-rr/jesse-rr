@@ -6,14 +6,14 @@
   Olá! Sou <strong>Jesse R.R.</strong>, cursando em ADS (Análise e Desenvolvimento de Sistemas) da área técnica. Adoro desafios e sempre busco incorporar novas tecnologias em projetos próprios e profissionais. <strong>:D</strong>
 </p>
 
-<p align="center" text-decoration="none">
-  <a href="https://www.linkedin.com/in/jesse-rr">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jesse-rr" style="display:inline-block; margin:0;">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="display:block;"/>
   </a>
-  <a href="mailto:jessericardorogerio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Gmail" />
+  <a href="mailto:jessericardorogerio@gmail.com" style="display:inline-block; margin:0;">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Gmail" style="display:block;"/>
   </a>
-  <a href="./">
-    <img src="https://img.shields.io/badge/Portifolio-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Portifolio" />
+  <a href="./" style="display:inline-block; margin:0;">
+    <img src="https://img.shields.io/badge/Portifolio-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Portifolio" style="display:block;"/>
   </a>
 </p>
