@@ -8,12 +8,12 @@
 
 <p align="center" gap="2px">
   <a href="https://www.linkedin.com/in/jesse-rr" style="display:inline-block; margin:0;">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="display:block;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ffa500?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="display:block;"/>
   </a>
   <a href="mailto:jessericardorogerio@gmail.com" style="display:inline-block; margin:0;">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Gmail" style="display:block;"/>
+    <img src="https://img.shields.io/badge/Gmail-ffa500?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Gmail" style="display:block;"/>
   </a>
   <a href="./" style="display:inline-block; margin:0;">
-    <img src="https://img.shields.io/badge/Portifolio-ffffff?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Portifolio" style="display:block;"/>
+    <img src="https://img.shields.io/badge/Portifolio-ffa500?style=for-the-badge&color=ffffff&labelColor=ffffff" alt="Portifolio" style="display:block;"/>
   </a>
 </p>
