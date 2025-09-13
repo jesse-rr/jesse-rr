@@ -6,11 +6,16 @@
   Olá! Sou <strong>Jesse R.R.</strong>, cursando em ADS (Análise e Desenvolvimento de Sistemas) da área técnica. Adoro desafios e sempre busco incorporar novas tecnologias em projetos próprios e   profissionais. <strong>:D</strong>
 </p>
 
-<div style="text-align:center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C42?style=for-the-badge)](https://www.linkedin.com/in/jesse-rr)
-  [![Gmail](https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge)](mailto:jessericardorogerio@gmail.com)
-  [![Portifolio](https://img.shields.io/badge/Portifolio-FF8C42?style=for-the-badge)](./)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jesse-rr">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8C42?style=for-the-badge" alt="LinkedIn" width="120"/>
+  </a>
+  <a href="mailto:jessericardorogerio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge" alt="Gmail" width="120"/>
+  </a>
+  <a href="./">
+    <img src="https://img.shields.io/badge/Portifolio-FF8C42?style=for-the-badge" alt="Portifolio" width="120"/>
+  </a>
 </div>
 
 
