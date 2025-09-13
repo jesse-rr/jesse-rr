@@ -1,7 +1,7 @@
 ![alt text](astronaut-1757802428660-4845.jpg)
 
-<div style="text-align: center; max-width: 600px; margin: auto;">
-    <p>
+<div style="max-width: 600px; margin: auto;">
+    <p style="text-align: center">
         Olá! Sou <strong>Jesse R.R.</strong>, cursando em ADS (Análise e Desenvolvimento de Sistemas) da area tecnica. Adoro desafios e sempre busco incorporar novas tecnologias em projetos     próprios e profissionais. <strong>:D</strong>
     </p>
 </div>
