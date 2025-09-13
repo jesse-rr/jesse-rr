@@ -8,9 +8,9 @@
 
 <p align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=FF8C42)](https://www.linkedin.com/in/jesse-rr)
-  [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&labelColor=FF8C42)](mailto:jessericardorogerio@gmail.com)
-  [![Portifolio](https://img.shields.io/badge/Portifolio-FFFFFF?style=for-the-badge&labelColor=FF8C42)](./)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C42?style=for-the-badge)](https://www.linkedin.com/in/jesse-rr)
+  [![Gmail](https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge)](mailto:jessericardorogerio@gmail.com)
+  [![Portifolio](https://img.shields.io/badge/Portifolio-FF8C42?style=for-the-badge)](./)
 </p>
 
 
